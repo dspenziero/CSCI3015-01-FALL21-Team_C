@@ -2,6 +2,7 @@
 /**
  * Write a description of DataBaseGen here.
  * 
+ * @author David Spenziero
  * @author Hassan Ul Haq
  * @version 20/11/2021
  */
